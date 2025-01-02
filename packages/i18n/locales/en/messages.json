@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
     "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "message": "NEET Prep Assistant is a Chrome extension designed to help NEET aspirants stay focused and organized during their preparation."
   },
   "extensionName": {
     "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "message": "NEET Prep Assistant"
   },
   "toggleTheme": {
     "message": "Toggle theme"
