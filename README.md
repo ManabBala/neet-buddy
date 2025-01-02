@@ -1,5 +1,39 @@
 <div align="center">
 
+# NEET Prep Assistant
+### A Chrome Extension to Help NEET Aspirants Stay Focused
+
+</div>
+
+## Features
+
+- 🎯 YouTube Focus Mode
+  - Hides distracting elements (comments, recommendations, etc.)
+  - Only shows educational content related to NEET subjects
+  - Custom filters for NEET-relevant channels
+
+- ⏰ Study Timer & Reminders
+  - Pomodoro timer optimized for NEET preparation
+  - Break reminders
+  - Daily study tracking
+
+- 📚 Quick Access Tools
+  - NCERT chapter quick links
+  - Formula sheets
+  - Previous year questions
+  - Subject-wise bookmarks
+
+- 🚫 Distraction Blocker
+  - Block non-educational websites during study hours
+  - Customizable blocking schedule
+  - Emergency override with password
+
+---
+
+# Chrome Extension Boilerplate with React + Vite + TypeScript
+
+<div align="center">
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/99cb6303-64e4-4bed-bf3f-35735353e6de" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a5dbf71c-c509-4c4f-80f4-be88a1943b0a" />
@@ -31,22 +65,33 @@
 
 ## Table of Contents
 
-- [Intro](#intro)
-- [Features](#features)
-- [Structure](#structure)
-    - [ChromeExtension](#structure-chrome-extension)
-    - [Packages](#structure-packages)
-    - [Pages](#structure-pages)
-- [Getting started](#getting-started)
-    - [Chrome](#getting-started-chrome)
-    - [Firefox](#getting-started-firefox)
-- [Install dependency](#install-dependency)
-    - [For root](#install-dependency-for-root)
-    - [For module](#install-dependency-for-module)
-- [Community](#community)
-- [Reference](#reference)
-- [Star History](#star-history)
-- [Contributors](#contributors)
+- [NEET Prep Assistant](#neet-prep-assistant)
+    - [A Chrome Extension to Help NEET Aspirants Stay Focused](#a-chrome-extension-to-help-neet-aspirants-stay-focused)
+  - [Features](#features)
+- [Chrome Extension Boilerplate with React + Vite + TypeScript](#chrome-extension-boilerplate-with-react--vite--typescript)
+  - [Table of Contents](#table-of-contents)
+  - [Intro](#intro)
+  - [Features](#features-1)
+  - [Getting started](#getting-started)
+    - [For Chrome: ](#for-chrome-)
+    - [For Firefox: ](#for-firefox-)
+  - [Install dependency for turborepo: ](#install-dependency-for-turborepo-)
+    - [For root: ](#for-root-)
+    - [For module: ](#for-module-)
+  - [Environment variables](#environment-variables)
+      - [If you want to set it for each package independently:](#if-you-want-to-set-it-for-each-package-independently)
+      - [Remember you can't use global and local at the same time for the same package(It will be overwritten)](#remember-you-cant-use-global-and-local-at-the-same-time-for-the-same-packageit-will-be-overwritten)
+  - [Boilerplate structure ](#boilerplate-structure-)
+    - [Chrome extension ](#chrome-extension-)
+    - [Pages ](#pages-)
+    - [Packages ](#packages-)
+  - [Troubleshooting](#troubleshooting)
+    - [Hot module reload seems to have frozen](#hot-module-reload-seems-to-have-frozen)
+  - [Community](#community)
+  - [Reference](#reference)
+  - [Star History ](#star-history-)
+  - [Contributors ](#contributors-)
+  - [Special Thanks To](#special-thanks-to)
 
 ## Intro
 
